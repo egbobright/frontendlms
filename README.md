@@ -73,7 +73,7 @@ cd your-repo
 2\\. install the dependency using maven. Set up the scene builder by downloading from https://www.jdeploy.com/~scenebuilder
 
 
-
+3. Start up the backend server before starting up the frontend.
 
 
 
@@ -95,6 +95,7 @@ Frontend designed as a library management system for books
 
 
 \\## Troubleshooting
+
 
 
 
